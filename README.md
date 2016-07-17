@@ -1,0 +1,1 @@
+This repo is a copy for the training I´m going to do to learn ruby programming language. 
